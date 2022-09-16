@@ -14,7 +14,7 @@ description: "分享平时的学习路线 | 编程资源 "
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/JDavi123123/JDavi123123.github.io/blob/6e58f1d68424d6baff7d1d8c0b31e86bbc42d19e/images/atom.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/JDavi123123/JDavi123123.github.io/blob/6e58f1d68424d6baff7d1d8c0b31e86bbc42d19e/images/BlogIcon.ico
+favicon: https://github.com/JDavi123123/JDavi123123.github.io/images/BlogIcon.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
